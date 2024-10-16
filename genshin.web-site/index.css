@@ -32,7 +32,7 @@ header{
 }
 
 header .left-side{
-    
+    border: 2px solid red;
 }
 
 header h1{
