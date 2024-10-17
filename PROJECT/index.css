@@ -1,16 +1,29 @@
 nav{
     border: 2px solid red;
 }
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 20px;
+    border: 2px solid red;
+}
 header{
     border: 2px solid red;
 }
 header .caracter{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     border: 2px solid red;
-    margin-top: 1em;
+}
+header .caracter .ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
 }
 char .personaj{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
     border: 2px solid red;
 
 }
@@ -22,11 +35,13 @@ char .personaj .c1 .img1{
     border: 2px solid red;
 
 }
-char .personaj .c1 .albedoicon .desc{
+char .personaj .c1 .desc{
+    display: flex;
+    justify-content: space-between;
     border: 2px solid red;
-    background-color: black;
+    background-color: rgb(250, 248, 248);
 }
-char .personaj .c1 .albedoicon .desc .weaponchar{
+char .personaj .c1 .desc .weaponchar{
     border: 2px solid red;
-    background-color: aqua;
+    background-color: rgb(248, 249, 249);
 }
