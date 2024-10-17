@@ -1,5 +1,5 @@
 nav{
-    border: 3px solid red;
+    border: 2px solid red;
 }
 header{
     border: 2px solid red;
@@ -13,4 +13,20 @@ header .caracter{
 char .personaj{
     border: 2px solid red;
 
+}
+char .personaj .c1{
+    border: 2px solid red;
+    background-color: burlywood;
+}
+char .personaj .c1 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c1 .albedoicon .desc{
+    border: 2px solid red;
+    background-color: black;
+}
+char .personaj .c1 .albedoicon .desc .weaponchar{
+    border: 2px solid red;
+    background-color: aqua;
 }
