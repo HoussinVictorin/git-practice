@@ -18,7 +18,12 @@ a{
     border: 2px solid red;
     background-color: rgb(63, 31, 31);
     color: white;
-    text-align: center;
+    list-style: none;
+    
+}
+.titlu h2{
+    text-align: left;
+    margin-left: 2%;
 }
 
 .sus{
