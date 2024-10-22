@@ -1,8 +1,18 @@
-body{
-    border: 2px solid red;
-    background-color: rgb(197, 173, 68);
+br{
+    height: 5px;
 }
 
+body{
+    border: 2px solid red;
+    background-color: rgb(134, 118, 45);
+    color: wheat;
+ 
+}
+
+a{
+    color: white;
+    
+}
 
 .titlu{
     border: 2px solid red;
@@ -14,7 +24,7 @@ body{
 .sus{
     border: 2px solid red;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 
 }
 .sus .desc{
@@ -22,27 +32,35 @@ body{
 
 }
 .sus .desc .icon{
+    margin-left: 5% ;
     border: 2px solid red;
 }
 .sus .desc .info{
-    border: 2px solod red;
+    border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
+
+    
 }
 .sus .desc .bigfoto{
     border: 2px solid red;
+    
 }
 
 .lvlup{
     border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
 
 }
 
 .set{
     border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
 
 }
 
 .team{
     border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
 
 }
 
@@ -50,15 +68,21 @@ body{
     border: 2px solid red;
     display: flex;
     justify-content: space-around;
+    background-color: rgba(78, 69, 26, 0.6)
+
 }
 
 .talents{
     border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
+
 
 }
 
 .const{
     border: 2px solid red;
+    background-color: rgba(78, 69, 26, 0.6)
+
 
 }
 
