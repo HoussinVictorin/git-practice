@@ -1,0 +1,64 @@
+body{
+    border: 2px solid red;
+    background-color: rgb(197, 173, 68);
+}
+
+
+.titlu{
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+    text-align: center;
+}
+
+.sus{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+
+}
+.sus .desc{
+    border: 2px solid red
+
+}
+.sus .desc .icon{
+    border: 2px solid red;
+}
+.sus .desc .info{
+    border: 2px solod red;
+}
+.sus .desc .bigfoto{
+    border: 2px solid red;
+}
+
+.lvlup{
+    border: 2px solid red;
+
+}
+
+.set{
+    border: 2px solid red;
+
+}
+
+.team{
+    border: 2px solid red;
+
+}
+
+.gallery{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+.talents{
+    border: 2px solid red;
+
+}
+
+.const{
+    border: 2px solid red;
+
+}
+

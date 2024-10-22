@@ -3,6 +3,14 @@ body{
     margin-left: 50px;
     margin-right: 50px;
 }
+
+.titlu{
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+    text-align: center;
+}
+
 nav{
     background-color: rgb(63, 31, 31);
     border: 2px solid red;
@@ -15,6 +23,7 @@ nav ul{
     gap: 20px;
     border: 2px solid red;
 }
+
 header{
     border: 2px solid red;
     background-color: rgb(63, 31, 31);
@@ -22,6 +31,18 @@ header{
 
 }
 header ul{
+    display: flex;  
+    justify-content: space-evenly;
+    list-style-type: none;
+    border: 2px solid red;
+}
+.weapons {
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+
+}
+.weapons ul{
     display: flex;  
     justify-content: space-evenly;
     list-style-type: none;
