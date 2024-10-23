@@ -97,7 +97,7 @@ char .personaj .c2 .desc .weaponchar{
 al treilea{}
 char .personaj .c3{
     border: 2px solid red;
-    background-color:rgb(37, 72, 94);
+        background-color:rgb(37, 72, 94);
 }
 char .personaj .c3 .img1{
     border: 2px solid red;

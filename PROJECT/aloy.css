@@ -4,7 +4,7 @@ br{
 
 body{
     border: 2px solid red;
-    background-color: rgb(134, 118, 45);
+    background-color:rgb(59, 111, 143);
     color: wheat;
  
 }
@@ -42,32 +42,32 @@ a{
 }
 .sus .desc .info{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
     
 }
 .sus .bigfoto{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
     
 }
 
 .lvlup{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
 }
 
 .set{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
 }
 
 .team{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
 }
 
@@ -75,21 +75,21 @@ a{
     border: 2px solid red;
     display: flex;
     justify-content: space-around;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
 }
 
 .talents{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color:rgba(37, 72, 94, 0.8);
 
 
 }
 
 .const{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
-
+    background-color:rgba(37, 72, 94, 0.8);
+    
 
 }
 
