@@ -1,0 +1,698 @@
+body{
+    background-color: rgb(90, 89, 89);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h2{
+    color: rgb(206, 203, 202);
+}
+.titlu{
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(63, 31, 31);
+    border: 2px solid red;
+    color: white;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 20px;
+    border: 2px solid red;
+}
+
+.weapons {
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+
+}
+.weapons ul{
+    display: flex;  
+    justify-content: space-evenly;
+    list-style-type: none;
+    border: 2px solid red;}
+
+char .weapon{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    border: 2px solid red;
+    text-align: center;
+
+}
+primul{}
+char .weapon .c1{
+    
+    border: 2px solid red;
+    background-color: rgb(102, 102, 110);
+}
+char .weapon .c1 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c1 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c1 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+al doilea{}
+char .weapon .c2{
+    border: 2px solid red;
+    background-color: rgb(102, 102, 110);
+}
+char .weapon .c2 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c2 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c2 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+al treilea{}
+char .weapon .c3{
+    border: 2px solid red;
+    background-color: rgb(102, 102, 110);
+}
+char .weapon .c3 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c3 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c3 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+IV{}
+char .weapon .c4{
+    border: 2px solid red;
+    background-color: rgb(102, 102, 110);
+}
+char .weapon .c4 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c4 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c4 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+V{}
+char .weapon .c5{
+    border: 2px solid red;
+    background-color: rgb(102, 102, 110);
+}
+char .weapon .c5 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c5 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c5 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+VI{}
+char .weapon .c6{
+    border: 2px solid red;
+    background-color:rgb(78, 114, 78);
+}
+char .weapon .c6 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c6 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c6 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+VII{}
+char .weapon .c7{
+    border: 2px solid red;
+    background-color:rgb(78, 114, 78);
+}
+char .weapon .c7 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c7 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c7 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+VIII{}
+char .weapon .c8{
+    border: 2px solid red;
+    background-color:rgb(78, 114, 78);
+}
+char .weapon .c8 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c8 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c8 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+IX{}
+char .weapon .c9{
+    border: 2px solid red;
+    background-color:rgb(78, 114, 78);
+}
+char .weapon .c9 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c9 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c9 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+X{}
+char .weapon .c10{
+    border: 2px solid red;
+    background-color:rgb(78, 114, 78);
+}
+char .weapon .c10 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c10 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c10 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+11{}
+char .weapon .c11{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c11 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c11 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c11 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+12{}
+char .weapon .c12{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c12 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c12 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c12 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+13{}
+char .weapon .c13{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c13 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c13 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c13 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+14{}
+char .weapon .c14{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c14 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c14 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c14 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+15{}
+char .weapon .c15{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c15 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c15 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c15 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+16{}
+char .weapon .c16{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c16 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c16 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c16 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+17{}
+char .weapon .c17{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c17 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c17 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c17 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+18{}
+char .weapon .c18{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c18 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c18 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c18 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+19{}
+char .weapon .c19{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c19 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c19 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c19 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+20{}
+char .weapon .c20{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c20 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c20 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c20 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+21{}
+char .weapon .c21{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c21 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c21 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c21 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+22{}
+char .weapon .c22{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c22 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c22 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c22 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+23{}
+char .weapon .c23{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c23 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c23 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c23 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+24{}
+char .weapon .c24{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c24 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c24 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c24 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+25{}
+char .weapon .c25{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c25 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c25 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c25 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+26{}
+char .weapon .c26{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c26 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c26 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c26 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+27{}
+char .weapon .c27{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c27 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c27 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c27 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+28{}
+char .weapon .c28{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c28 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c28 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c28 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+29{}
+char .weapon .c29{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c29 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c29 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c29 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+30{}
+char .weapon .c30{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c30 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c30 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c30 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+31{}
+char .weapon .c31{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c31 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c31 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c31 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+32{}
+char .weapon .c32{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c32 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c32 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c32 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+33{}
+char .weapon .c33{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c33 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c33 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c33 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+34{}
+char .weapon .c34{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .weapon .c34 .img1{
+    border: 2px solid red;
+
+}
+char .weapon .c34 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .weapon .c34 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}

@@ -37,8 +37,13 @@ a{
 
 }
 .sus .desc .icon{
+    border: 2px solid red;
+}
+.sus .desc .icon img{
     margin-left: 5% ;
     border: 2px solid red;
+    background-color: rgba(61, 53, 19, 0.8)
+
 }
 .sus .desc .info{
     border: 2px solid red;
@@ -48,7 +53,7 @@ a{
 }
 .sus .bigfoto{
     border: 2px solid red;
-    background-color: rgba(90, 79, 29, 0.8)
+    background-color: rgba(61, 53, 19, 0.8)
 
     
 }

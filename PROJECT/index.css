@@ -3,6 +3,10 @@ body{
     margin-left: 50px;
     margin-right: 50px;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 
 .titlu{
     border: 2px solid red;
