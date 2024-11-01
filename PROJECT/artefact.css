@@ -1,0 +1,109 @@
+body{
+    background-color: ;
+}
+char .art{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    border: 2px solid red;
+    text-align: center;
+}
+Primul{}
+char .art .c1{
+    
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .art .c1 .img1{
+    border: 2px solid red;
+
+}
+char .art .c1 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .art .c1 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+2{}
+char .art .c2{
+    
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .art .c2 .img1{
+    border: 2px solid red;
+
+}
+char .art .c2 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .art .c2 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+
+3{}
+char .art .c3{
+    border: 2px solid red;
+    background-color:rgb(72, 91, 112);
+}
+char .art .c3 .img1{
+    border: 2px solid red;
+
+}
+char .art .c3 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .art .c3 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+
+4{}
+char .art .c4{
+    border: 2px solid red;
+    background-color:rgb(108, 78, 117);
+}
+char .art .c4 .img1{
+    border: 2px solid red;
+
+}
+char .art .c4 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .art .c4 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+
+18{}
+char .art .c18{
+    border: 2px solid red;
+    background-color:rgb(126, 109, 36);
+}
+char .art .c18 .img1{
+    border: 2px solid red;
+
+}
+char .art .c18 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .art .c18 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
