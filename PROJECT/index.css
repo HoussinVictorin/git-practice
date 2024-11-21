@@ -57,7 +57,8 @@ header ul{
 
 char .personaj{
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 5px;
+    grid-template-columns: repeat(6, 1fr);
     border: 2px solid red;
     text-align: center;
 
@@ -326,6 +327,501 @@ char .personaj .c14 .desc{
     background-color: rgb(250, 248, 248);
 }
 char .personaj .c14 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+15{}
+char .personaj .c15{
+    
+    border: 2px solid red;
+    background-color: rgb(100, 97, 54);
+}
+char .personaj .c15.img1{
+    border: 2px solid red;
+
+}
+char .personaj .c15 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c15 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+16{}
+char .personaj .c16{
+    border: 2px solid red;
+    background-color:rgb(71, 93, 107);
+}
+char .personaj .c16 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c16 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c16 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+17{}
+char .personaj .c17{
+    border: 2px solid red;
+    background-color:rgb(82, 64, 104);
+}
+char .personaj .c17 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c17 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c17 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+18{}
+char .personaj .c18{
+    border: 2px solid red;
+    background-color:rgb(55, 94, 55);
+}
+char .personaj .c18 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c18 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c18 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+19{}
+char .personaj .c19{
+    border: 2px solid red;
+    background-color:rgb(82, 64, 104);
+}
+char .personaj .c19 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c19 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c19 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+20{}
+char .personaj .c20{
+    border: 2px solid red;
+    background-color:rgb(104, 65, 53);
+}
+char .personaj .c20 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c20 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c20 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+21{}
+char .personaj .c21{
+    border: 2px solid red;
+    background-color:rgb(104, 65, 53);
+}
+char .personaj .c21 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c21 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c21 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+22{}
+char .personaj .c22{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c22 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c22 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c22 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+23{}
+char .personaj .c23{
+    border: 2px solid red;
+    background-color:rgb(82, 64, 104);
+}
+char .personaj .c23 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c23 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c23 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+24{}
+char .personaj .c24{
+    border: 2px solid red;
+    background-color:rgb(55, 94, 55);
+}
+char .personaj .c24 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c24 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c24 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+25{}
+char .personaj .c25{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c25 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c25 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c25 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+26{}
+char .personaj .c26{
+    border: 2px solid red;
+    background-color:rgb(71, 107, 86);
+}
+char .personaj .c26 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c26 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c26 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+27{}
+char .personaj .c27{
+    border: 2px solid red;
+    background-color:rgb(82, 64, 104);
+}
+char .personaj .c27 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c27 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c27 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+28{}
+char .personaj .c28{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c28 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c28 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c28 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+29{}
+char .personaj .c29{
+    border: 2px solid red;
+    background-color:rgb(63, 72, 102);
+}
+char .personaj .c29 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c29 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c29 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+30{}
+char .personaj .c30{
+    border: 2px solid red;
+    background-color:rgb(104, 65, 53);
+}
+char .personaj .c30 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c30 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c30  .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+31{}
+char .personaj .c31{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c31 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c31 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c31 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+32{}
+char .personaj .c32{
+    border: 2px solid red;
+    background-color: rgb(92, 89, 54);
+}
+char .personaj .c32 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c32 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c32 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+33{}
+char .personaj .c33{
+    border: 2px solid red;
+    background-color:rgb(104, 65, 53);
+}
+char .personaj .c33 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c33 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c33  .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+34{}
+char .personaj .c34{
+    border: 2px solid red;
+    background-color:rgb(71, 107, 86);
+}
+char .personaj .c34 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c34 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c34 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+35{}
+char .personaj .c35{
+    border: 2px solid red;
+    background-color: rgb(92, 89, 54);
+}
+char .personaj .c35 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c35 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c35 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+36{}
+char .personaj .c36{
+    border: 2px solid red;
+    background-color:rgb(71, 107, 86);
+}
+char .personaj .c36 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c36 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c36 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+37{}
+char .personaj .c37{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c37 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c37 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c37 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+38{}
+char .personaj .c38{
+    border: 2px solid red;
+        background-color:rgb(71, 93, 107);
+}
+char .personaj .c38 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c38 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c38 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+39{}
+char .personaj .c39{
+    border: 2px solid red;
+    background-color:rgb(63, 72, 102);
+}
+char .personaj .c39 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c39 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c39 .desc .weaponchar{
+    border: 2px solid red;
+    background-color: rgb(248, 249, 249);
+}
+40{}
+char .personaj .c40{
+    border: 2px solid red;
+    background-color:rgb(55, 94, 55);
+}
+char .personaj .c40 .img1{
+    border: 2px solid red;
+
+}
+char .personaj .c40 .desc{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(250, 248, 248);
+}
+char .personaj .c40 .desc .weaponchar{
     border: 2px solid red;
     background-color: rgb(248, 249, 249);
 }

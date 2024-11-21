@@ -1,0 +1,100 @@
+br{
+    height: 5px;
+}
+
+body{
+    border: 2px solid red;
+    background-color: rgb(134, 118, 45);
+    color: wheat;
+ 
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.titlu{
+    border: 2px solid red;
+    background-color: rgb(63, 31, 31);
+    color: white;
+    list-style: none;
+    
+}
+.titlu h2{
+    text-align: left;
+    margin-left: 2%;
+}
+
+.sus{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+
+}
+.sus .desc{
+    border: 2px solid red
+
+}
+.sus .desc .icon{
+    border: 2px solid red;
+}
+.sus .desc .icon img{
+    margin-left: 5% ;
+    border: 2px solid red;
+    background-color: rgba(61, 53, 19, 0.8)
+
+}
+.sus .desc .info{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+    
+}
+.sus .bigfoto{
+    border: 2px solid red;
+    background-color: rgba(61, 53, 19, 0.8)
+
+    
+}
+
+.lvlup{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+}
+
+.set{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+}
+
+.team{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+}
+
+.gallery{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(90, 79, 29, 0.8)
+
+}
+
+.talents{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+
+}
+
+.const{
+    border: 2px solid red;
+    background-color: rgba(90, 79, 29, 0.8)
+
+
+}
+
